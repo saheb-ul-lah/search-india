@@ -91,27 +91,6 @@ Remember to **add the `X-API-KEY` header to *every* request** as described above
     *   **Expected Status:** `200 OK`
     *   **Expected Body (JSON):** Businesses 6-10 (if available), with updated pagination meta.
 
-*   **Search Businesses (by Query):**
-    *   **Method:** `GET`
-    *   **URL:** `https://searchindia.itsoftwaretech.com/api/v1/businesses?q=development`
-    *   **Headers:** `X-API-KEY`: `YOUR_RAW_API_KEY`
-    *   **Expected Status:** `200 OK`
-    *   **Expected Body (JSON):** List of businesses matching "development" in name, description, etc.
-
-*   **Search Businesses (by Location):**
-    *   **Method:** `GET`
-    *   **URL:** `https://searchindia.itsoftwaretech.com/api/v1/businesses?location=Assam`
-    *   **Headers:** `X-API-KEY`: `YOUR_RAW_API_KEY`
-    *   **Expected Status:** `200 OK`
-    *   **Expected Body (JSON):** List of businesses matching "Assam" in address, city, state, etc.
-
-*   **Search Businesses (by Query & Location):**
-    *   **Method:** `GET`
-    *   **URL:** `https://searchindia.itsoftwaretech.com/api/v1/businesses?q=devplexity&location=dibrugarh`
-    *   **Headers:** `X-API-KEY`: `YOUR_RAW_API_KEY`
-    *   **Expected Status:** `200 OK`
-    *   **Expected Body (JSON):** List of businesses matching both criteria.
-
 *   **Filter Businesses (by Category Slug):**
     *   **Method:** `GET`
     *   **URL:** `https://searchindia.itsoftwaretech.com/api/v1/businesses?category=automotive`
