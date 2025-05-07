@@ -1,18 +1,16 @@
 
 # 🇮🇳 Search India (FindIt) - Your Ultimate Local Business Directory 🚀
 
-![Search India Logo](path/to/your/image/logo-banner.png) <!-- Replace with a nice banner logo -->
+![Search India Logo](https://searchindia.itsoftwaretech.com/justdial-admin/assets/img/logo.png) <!-- Replace with a nice banner logo -->
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/your-username/search-india)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/saheb-ul-lah/search-india)
 [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D7.4-8892BF.svg)](https://php.net)
 [![Database](https://img.shields.io/badge/Database-MySQL-00758F.svg)](https://www.mysql.com/)
 [![Frontend](https://img.shields.io/badge/Frontend-TailwindCSS%20%7C%20JS-38B2AC.svg)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) <!-- Create a LICENSE file if you don't have one -->
 [![Contact](https://img.shields.io/badge/Say%20Hi!-iamsaheb786182%40gmail.com-brightgreen)](mailto:iamsaheb786182@gmail.com)
 
-Welcome to **Search India (FindIt)**, a comprehensive local business directory platform designed to connect users with the best businesses, services, restaurants, and professionals in their cities. Built with a robust PHP backend, a dynamic Tailwind CSS frontend, and a feature-rich admin panel, Search India aims to be the go-to solution for local discovery.
-
-This README provides an in-depth look into the project's architecture, features, and functionalities.
+Welcome to **Search India**, a comprehensive local business directory platform designed to connect users with the best businesses, services, restaurants, and professionals in their cities. Built with a robust PHP backend, a dynamic Tailwind CSS frontend, and a feature-rich admin panel, Search India aims to be the go-to solution for local discovery.
 
 ---
 
